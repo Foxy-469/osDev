@@ -1,4 +1,10 @@
+# Ignore compiled output
+/build/
 *.img
 *.bin
 *.o
 *.iso
+
+# Editor backup files
+*~
+*.swp
